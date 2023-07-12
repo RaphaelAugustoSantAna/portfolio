@@ -71,4 +71,3 @@ function Info() {
 }
 
 export default Info;
-// cxcxcmcmx
