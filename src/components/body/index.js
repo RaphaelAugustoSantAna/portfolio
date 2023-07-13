@@ -20,13 +20,14 @@ function Body() {
           <>
             <div className="info-dados">
               <span>
-                Me chamo Raphael Augusto Sant'Ana, venho de uma transição de
-                carreira e estou buscando uma oportunidade na área de
-                tecnologia. Procuro aplicar as habilidades de Soft-skills
-                desenvolvidas em outras áreas como um diferencial para essa nova
-                fase na minha carreira de desenvolvedor, trabalhando assim de
-                forma dinâmica e diversificada. Para saber mais sobre mim,
-                poderá entrar em contato atráves do{" "}
+                Olá, sou o  Raphael e venho de uma transição de
+                carreira para a área de tecnologia. Estou em busca de
+                oportunidades nesse campo e busco aplicar as habilidades de
+                Soft-skills que desenvolvi em outras áreas como um diferencial
+                nessa nova fase da minha carreira como desenvolvedor. Sou uma
+                pessoa dinâmica e diversificada, sempre buscando aprender e
+                crescer. Se quiser saber mais sobre mim, fique à vontade para
+                entrar em contato através do meu perfil do{" "}
                 <b>
                   <a
                     href="https://www.linkedin.com/in/raphael-sant-ana/"
@@ -37,7 +38,8 @@ function Body() {
                   </a>
                   <br />
                   <span>
-                    Abaixo estão também alguns projetos que desenvolvi, para conferir,{" "}
+                    Abaixo estão também alguns projetos que desenvolvi, para
+                    conferir,{" "}
                     <a
                       href="https://codepen.io/raphaelaugustosantana"
                       target={"_blank"}
